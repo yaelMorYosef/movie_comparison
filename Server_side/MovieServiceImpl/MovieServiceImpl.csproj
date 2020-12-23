@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RunPostBuildEvent>OnBuildSuccess</RunPostBuildEvent>
+    <Version>2.0.0</Version>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="DI_FACTORY" Version="1.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DalInfraContracts\DalInfraContracts.csproj" />
+    <ProjectReference Include="..\DalParametersConverter\DalParametersConverter.csproj" />
+    <ProjectReference Include="..\MoviesContracts\MoviesContracts.csproj" />
+  </ItemGroup>
+
+  <Target Name="PostBuild" AfterTargets="PostBuildEvent">
+   
+  </Target>
+
+  <Target Name="PostBuild" AfterTargets="PostBuildEvent">
+   
+  </Target>
+
+</Project>

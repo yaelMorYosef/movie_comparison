@@ -1,0 +1,9 @@
+F:\new Project\DalInfraContracts\bin\Release\netcoreapp3.1\DalInfraContracts.deps.json
+F:\new Project\DalInfraContracts\bin\Release\netcoreapp3.1\DalInfraContracts.dll
+F:\new Project\DalInfraContracts\bin\Release\netcoreapp3.1\DalInfraContracts.pdb
+F:\new Project\DalInfraContracts\obj\Release\netcoreapp3.1\DalInfraContracts.csprojAssemblyReference.cache
+F:\new Project\DalInfraContracts\obj\Release\netcoreapp3.1\DalInfraContracts.csproj.CoreCompileInputs.cache
+F:\new Project\DalInfraContracts\obj\Release\netcoreapp3.1\DalInfraContracts.AssemblyInfoInputs.cache
+F:\new Project\DalInfraContracts\obj\Release\netcoreapp3.1\DalInfraContracts.AssemblyInfo.cs
+F:\new Project\DalInfraContracts\obj\Release\netcoreapp3.1\DalInfraContracts.dll
+F:\new Project\DalInfraContracts\obj\Release\netcoreapp3.1\DalInfraContracts.pdb

@@ -1,0 +1,16 @@
+F:\new Project\MovieServiceImpl\obj\Debug\netcoreapp3.1\MovieServiceImpl.csprojAssemblyReference.cache
+F:\new Project\MovieServiceImpl\obj\Debug\netcoreapp3.1\MovieServiceImpl.AssemblyInfoInputs.cache
+F:\new Project\MovieServiceImpl\obj\Debug\netcoreapp3.1\MovieServiceImpl.AssemblyInfo.cs
+F:\new Project\MovieServiceImpl\bin\Debug\netcoreapp3.1\MovieServiceImpl.deps.json
+F:\new Project\MovieServiceImpl\bin\Debug\netcoreapp3.1\MovieServiceImpl.dll
+F:\new Project\MovieServiceImpl\bin\Debug\netcoreapp3.1\MovieServiceImpl.pdb
+F:\new Project\MovieServiceImpl\obj\Debug\netcoreapp3.1\MovieServiceImpl.dll
+F:\new Project\MovieServiceImpl\obj\Debug\netcoreapp3.1\MovieServiceImpl.pdb
+F:\new Project\MovieServiceImpl\obj\Debug\netcoreapp3.1\MovieServiceImpl.csproj.CoreCompileInputs.cache
+F:\new Project\MovieServiceImpl\bin\Debug\netcoreapp3.1\DalInfraContracts.dll
+F:\new Project\MovieServiceImpl\bin\Debug\netcoreapp3.1\DalParametersConverter.dll
+F:\new Project\MovieServiceImpl\bin\Debug\netcoreapp3.1\MoviesContracts.dll
+F:\new Project\MovieServiceImpl\bin\Debug\netcoreapp3.1\DalInfraContracts.pdb
+F:\new Project\MovieServiceImpl\bin\Debug\netcoreapp3.1\DalParametersConverter.pdb
+F:\new Project\MovieServiceImpl\bin\Debug\netcoreapp3.1\MoviesContracts.pdb
+F:\new Project\MovieServiceImpl\obj\Debug\netcoreapp3.1\MovieServiceImpl.csproj.CopyComplete

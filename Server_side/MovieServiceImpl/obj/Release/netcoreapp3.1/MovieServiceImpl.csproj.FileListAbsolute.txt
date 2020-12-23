@@ -1,0 +1,9 @@
+F:\new Project\MovieServiceImpl\bin\Release\netcoreapp3.1\MovieServiceImpl.deps.json
+F:\new Project\MovieServiceImpl\bin\Release\netcoreapp3.1\MovieServiceImpl.dll
+F:\new Project\MovieServiceImpl\bin\Release\netcoreapp3.1\MovieServiceImpl.pdb
+F:\new Project\MovieServiceImpl\obj\Release\netcoreapp3.1\MovieServiceImpl.csprojAssemblyReference.cache
+F:\new Project\MovieServiceImpl\obj\Release\netcoreapp3.1\MovieServiceImpl.csproj.CoreCompileInputs.cache
+F:\new Project\MovieServiceImpl\obj\Release\netcoreapp3.1\MovieServiceImpl.AssemblyInfoInputs.cache
+F:\new Project\MovieServiceImpl\obj\Release\netcoreapp3.1\MovieServiceImpl.AssemblyInfo.cs
+F:\new Project\MovieServiceImpl\obj\Release\netcoreapp3.1\MovieServiceImpl.dll
+F:\new Project\MovieServiceImpl\obj\Release\netcoreapp3.1\MovieServiceImpl.pdb

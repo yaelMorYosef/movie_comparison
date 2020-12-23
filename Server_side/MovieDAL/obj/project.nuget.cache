@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "Yc8lyUmzU4ha6hW9okk15n77Ka2dVbUpIjO10W9M2I/qFobhfYWkGI0Cr++xJAWYnKcpJDuc5cHQ5pzNZuOHxw==",
+  "success": true,
+  "projectFilePath": "F:\\new Project\\MovieDAL\\MovieDAL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Home\\.nuget\\packages\\factorycontracts\\1.0.1\\factorycontracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\Home\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\Home\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "C:\\Users\\Home\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.7.0\\runtime.native.system.data.sqlclient.sni.4.7.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\runtime.win-x86.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\Home\\.nuget\\packages\\system.data.sqlclient\\4.8.2\\system.data.sqlclient.4.8.2.nupkg.sha512",
+    "C:\\Users\\Home\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\Home\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
+    "C:\\Users\\Home\\.nuget\\packages\\dalinfracontracts\\1.0.0\\dalinfracontracts.1.0.0.nupkg.sha512",
+    "C:\\Users\\Home\\.nuget\\packages\\dalparametersconverter\\1.0.0\\dalparametersconverter.1.0.0.nupkg.sha512",
+    "C:\\Users\\Home\\.nuget\\packages\\moviescontracts\\1.0.0\\moviescontracts.1.0.0.nupkg.sha512",
+    "C:\\Users\\Home\\.nuget\\packages\\sqlinfradal\\1.0.0\\sqlinfradal.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

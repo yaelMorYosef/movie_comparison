@@ -1,0 +1,14 @@
+F:\new Project\DalParametersConverter\bin\Release\netcoreapp3.1\DalParametersConverter.deps.json
+F:\new Project\DalParametersConverter\bin\Release\netcoreapp3.1\DalParametersConverter.dll
+F:\new Project\DalParametersConverter\bin\Release\netcoreapp3.1\DalParametersConverter.pdb
+F:\new Project\DalParametersConverter\bin\Release\netcoreapp3.1\DalInfraContracts.dll
+F:\new Project\DalParametersConverter\bin\Release\netcoreapp3.1\MoviesContracts.dll
+F:\new Project\DalParametersConverter\bin\Release\netcoreapp3.1\DalInfraContracts.pdb
+F:\new Project\DalParametersConverter\bin\Release\netcoreapp3.1\MoviesContracts.pdb
+F:\new Project\DalParametersConverter\obj\Release\netcoreapp3.1\DalParametersConverter.csprojAssemblyReference.cache
+F:\new Project\DalParametersConverter\obj\Release\netcoreapp3.1\DalParametersConverter.csproj.CoreCompileInputs.cache
+F:\new Project\DalParametersConverter\obj\Release\netcoreapp3.1\DalParametersConverter.AssemblyInfoInputs.cache
+F:\new Project\DalParametersConverter\obj\Release\netcoreapp3.1\DalParametersConverter.AssemblyInfo.cs
+F:\new Project\DalParametersConverter\obj\Release\netcoreapp3.1\DalParametersConverter.csproj.CopyComplete
+F:\new Project\DalParametersConverter\obj\Release\netcoreapp3.1\DalParametersConverter.dll
+F:\new Project\DalParametersConverter\obj\Release\netcoreapp3.1\DalParametersConverter.pdb

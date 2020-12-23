@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>MovieDAL</id>
+    <version>1.0.0</version>
+    <authors>MovieDAL</authors>
+    <owners>MovieDAL</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1">
+        <dependency id="DalInfraContracts" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="DalParametersConverter" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="FactoryContracts" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="MoviesContracts" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="SQLInfraDAL" version="1.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="F:\new Project\MovieDAL\bin\Release\netcoreapp3.1\MovieDAL.dll" target="lib\netcoreapp3.1\MovieDAL.dll" />
+  </files>
+</package>

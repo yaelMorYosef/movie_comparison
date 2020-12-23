@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "s/k5+WrzP5phluuxYNaDwY0MEO96ufEePR/ZmWyvKahMtHVIJLWCLf6Tkkgii7KkKw5HA+uFbAFSEANRDgQDYg==",
+  "success": true,
+  "projectFilePath": "F:\\new Project\\MoviesContracts\\MoviesContracts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Home\\.nuget\\packages\\dalinfracontracts\\1.0.0\\dalinfracontracts.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

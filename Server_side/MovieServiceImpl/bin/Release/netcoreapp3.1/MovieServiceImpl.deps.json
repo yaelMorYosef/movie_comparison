@@ -1,0 +1,147 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MovieServiceImpl/2.0.0": {
+        "dependencies": {
+          "DI_FACTORY": "1.0.0",
+          "DalInfraContracts": "1.0.0",
+          "DalParametersConverter": "1.0.0"
+        },
+        "runtime": {
+          "MovieServiceImpl.dll": {}
+        }
+      },
+      "DalInfraContracts/1.0.0": {
+        "runtime": {
+          "lib/netcoreapp3.1/DalInfraContracts.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "DalParametersConverter/1.0.0": {
+        "dependencies": {
+          "DalInfraContracts": "1.0.0",
+          "MoviesContracts": "1.0.0"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/DalParametersConverter.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "DI_FACTORY/1.0.0": {
+        "dependencies": {
+          "FactoryContracts": "1.0.0",
+          "Microsoft.Extensions.DependencyInjection": "5.0.0"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/DI_FACTORY.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "FactoryContracts/1.0.0": {
+        "runtime": {
+          "lib/netcoreapp3.1/FactoryContracts.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection/5.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "5.0.0"
+        },
+        "runtime": {
+          "lib/netstandard2.1/Microsoft.Extensions.DependencyInjection.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.20.51904"
+          }
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection.Abstractions/5.0.0": {
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.20.51904"
+          }
+        }
+      },
+      "MoviesContracts/1.0.0": {
+        "dependencies": {
+          "DalInfraContracts": "1.0.0"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/MoviesContracts.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MovieServiceImpl/2.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DalInfraContracts/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-k3LdkOmsWd+x7i8zF0xDYZ3QDbuuN3VaxIPa2D9AipIzz883c0wP3/NwkeU09LyX55H8RIicWB+ViK7h94q+2w==",
+      "path": "dalinfracontracts/1.0.0",
+      "hashPath": "dalinfracontracts.1.0.0.nupkg.sha512"
+    },
+    "DalParametersConverter/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-0HIFy4KvGBYmSr+7bedG0eLF+EyQlu/KOU82mGNDufwlnyKQ/dnfgc1aXp8zGQ7yug3wW6j15aY2rvi3yX+wfw==",
+      "path": "dalparametersconverter/1.0.0",
+      "hashPath": "dalparametersconverter.1.0.0.nupkg.sha512"
+    },
+    "DI_FACTORY/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-QYJvkei2LwdEu301j3otR+aQe3lvrPCJ2K1H3jkDev8zSJ5icFF82r4cUHerPQujQWvnzu3nbqjkEh+UWZJ2Ig==",
+      "path": "di_factory/1.0.0",
+      "hashPath": "di_factory.1.0.0.nupkg.sha512"
+    },
+    "FactoryContracts/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-hgcIyjPvUkLuJfRDoF8cuQcsVw3ZlXvyE4qIKRSF13Iw2HU/rHFbZKpxhLGNrmxsO0Lon+GnzSsH2R42JItNug==",
+      "path": "factorycontracts/1.0.0",
+      "hashPath": "factorycontracts.1.0.0.nupkg.sha512"
+    },
+    "Microsoft.Extensions.DependencyInjection/5.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Rc2kb/p3Ze6cP6rhFC3PJRdWGbLvSHZc0ev7YlyeU6FmHciDMLrhoVoTUEzKPhN5ZjFgKF1Cf5fOz8mCMIkvpA==",
+      "path": "microsoft.extensions.dependencyinjection/5.0.0",
+      "hashPath": "microsoft.extensions.dependencyinjection.5.0.0.nupkg.sha512"
+    },
+    "Microsoft.Extensions.DependencyInjection.Abstractions/5.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ORj7Zh81gC69TyvmcUm9tSzytcy8AVousi+IVRAI8nLieQjOFryRusSFh7+aLk16FN9pQNqJAiMd7BTKINK0kA==",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/5.0.0",
+      "hashPath": "microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"
+    },
+    "MoviesContracts/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-EqpRjaY0pPh30M9hczWYKrBIhtolquGwvkMGx4cC04GXp0JnMo0qzkKMJahhjsFA3HJEZIyWVpqMqWkiDYnK2g==",
+      "path": "moviescontracts/1.0.0",
+      "hashPath": "moviescontracts.1.0.0.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+F:\new Project\MoviesContracts\bin\Release\netcoreapp3.1\MoviesContracts.deps.json
+F:\new Project\MoviesContracts\bin\Release\netcoreapp3.1\MoviesContracts.dll
+F:\new Project\MoviesContracts\bin\Release\netcoreapp3.1\MoviesContracts.pdb
+F:\new Project\MoviesContracts\bin\Release\netcoreapp3.1\DalInfraContracts.dll
+F:\new Project\MoviesContracts\bin\Release\netcoreapp3.1\DalInfraContracts.pdb
+F:\new Project\MoviesContracts\obj\Release\netcoreapp3.1\MoviesContracts.csprojAssemblyReference.cache
+F:\new Project\MoviesContracts\obj\Release\netcoreapp3.1\MoviesContracts.csproj.CoreCompileInputs.cache
+F:\new Project\MoviesContracts\obj\Release\netcoreapp3.1\MoviesContracts.AssemblyInfoInputs.cache
+F:\new Project\MoviesContracts\obj\Release\netcoreapp3.1\MoviesContracts.AssemblyInfo.cs
+F:\new Project\MoviesContracts\obj\Release\netcoreapp3.1\MoviesContracts.csproj.CopyComplete
+F:\new Project\MoviesContracts\obj\Release\netcoreapp3.1\MoviesContracts.dll
+F:\new Project\MoviesContracts\obj\Release\netcoreapp3.1\MoviesContracts.pdb

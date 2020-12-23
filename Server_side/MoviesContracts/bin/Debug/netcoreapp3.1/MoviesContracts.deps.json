@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MoviesContracts/1.0.0": {
+        "dependencies": {
+          "DalInfraContracts": "1.0.0"
+        },
+        "runtime": {
+          "MoviesContracts.dll": {}
+        }
+      },
+      "DalInfraContracts/1.0.0": {
+        "runtime": {
+          "DalInfraContracts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MoviesContracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DalInfraContracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

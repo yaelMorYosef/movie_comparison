@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "i6kJAEJFH6lPLzPeiJbV91BQdsrlqO+XA6SULCZxnrDlPwO/2SVp6ogBWGjI7XEyujUdtusvG3F3tAVqKEnkrg==",
+  "success": true,
+  "projectFilePath": "F:\\new Project\\MovieServiceImpl\\MovieServiceImpl.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Home\\.nuget\\packages\\di_factory\\1.0.0\\di_factory.1.0.0.nupkg.sha512",
+    "C:\\Users\\Home\\.nuget\\packages\\factorycontracts\\1.0.0\\factorycontracts.1.0.0.nupkg.sha512",
+    "C:\\Users\\Home\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.0\\microsoft.extensions.dependencyinjection.5.0.0.nupkg.sha512",
+    "C:\\Users\\Home\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Home\\.nuget\\packages\\dalinfracontracts\\1.0.0\\dalinfracontracts.1.0.0.nupkg.sha512",
+    "C:\\Users\\Home\\.nuget\\packages\\dalparametersconverter\\1.0.0\\dalparametersconverter.1.0.0.nupkg.sha512",
+    "C:\\Users\\Home\\.nuget\\packages\\moviescontracts\\1.0.0\\moviescontracts.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

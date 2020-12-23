@@ -1,0 +1,14 @@
+F:\new Project\SQLInfraDAL\bin\Debug\netcoreapp3.1\SQLInfraDAL.deps.json
+F:\new Project\SQLInfraDAL\bin\Debug\netcoreapp3.1\SQLInfraDAL.dll
+F:\new Project\SQLInfraDAL\bin\Debug\netcoreapp3.1\SQLInfraDAL.pdb
+F:\new Project\SQLInfraDAL\bin\Debug\netcoreapp3.1\DalInfraContracts.dll
+F:\new Project\SQLInfraDAL\bin\Debug\netcoreapp3.1\MoviesContracts.dll
+F:\new Project\SQLInfraDAL\bin\Debug\netcoreapp3.1\DalInfraContracts.pdb
+F:\new Project\SQLInfraDAL\bin\Debug\netcoreapp3.1\MoviesContracts.pdb
+F:\new Project\SQLInfraDAL\obj\Debug\netcoreapp3.1\SQLInfraDAL.csprojAssemblyReference.cache
+F:\new Project\SQLInfraDAL\obj\Debug\netcoreapp3.1\SQLInfraDAL.csproj.CoreCompileInputs.cache
+F:\new Project\SQLInfraDAL\obj\Debug\netcoreapp3.1\SQLInfraDAL.AssemblyInfoInputs.cache
+F:\new Project\SQLInfraDAL\obj\Debug\netcoreapp3.1\SQLInfraDAL.AssemblyInfo.cs
+F:\new Project\SQLInfraDAL\obj\Debug\netcoreapp3.1\SQLInfraDAL.csproj.CopyComplete
+F:\new Project\SQLInfraDAL\obj\Debug\netcoreapp3.1\SQLInfraDAL.dll
+F:\new Project\SQLInfraDAL\obj\Debug\netcoreapp3.1\SQLInfraDAL.pdb
